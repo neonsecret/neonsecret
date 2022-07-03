@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @neonsecret
-- I am a neural networks engineer and a python developer.
+- I am a machine learning engineer and a python developer.
 - Feel free to contact me on my email slava.v.ivannikov@gmail.com
